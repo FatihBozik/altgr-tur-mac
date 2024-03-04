@@ -432,7 +432,7 @@
             <key code="31" action="ö"/>
             <key code="32" action="ü"/>
             <key code="33" output="«"/>
-            <key code="34" action="ï"/>
+            <key code="34" action="ı"/>
             <key code="35" output="ò"/>
             <key code="36" output="&#x000D;"/>
             <key code="37" output="ó"/>
